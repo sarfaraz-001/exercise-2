@@ -4,7 +4,7 @@
 
 <html>
 <head>
-	<title>first page</title>
+	
 	<h1>HELLO WORLD</h1>
 	</head>
 	<a href="file:///C:/Users/SARFARAZ/Desktop/about.html"><h2>about</h2> </a>
